@@ -1,0 +1,12 @@
+import NavBar from "./NavBar";
+import Footer from "./Footer";
+import HomeSLide from "./home/HomeSLide";
+import HomeTrending from "./home/HomeTrending";
+import HomePopular from './home/HomePopular';
+import HomeTopRated from "./home/HomeTopRated";
+import HomeAction from "./home/HomeAction";
+import SecondHomeSlide from "./home/SecondHomeSlide";
+import HomeComodies from "./home/HomeComodies";
+import HomeRomance from "./home/HomeRomance";
+import HomeHorror from "./home/HomeHorror";
+export { NavBar, HomeSLide,HomeTrending,HomePopular,HomeTopRated, HomeAction,SecondHomeSlide,HomeComodies,HomeRomance,HomeHorror,Footer };
